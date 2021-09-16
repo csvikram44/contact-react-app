@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.ui.menu {
+  padding: 15px;
+}
+
+.ui.menu > div {
+  width: 50%;
+}
+.ui.list .item {
+  padding: 15px !important;
+}
+.ui.list .item .icon {
+  cursor: pointer;
+}
+.ui.list .item .header {
+  text-transform: uppercase;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
